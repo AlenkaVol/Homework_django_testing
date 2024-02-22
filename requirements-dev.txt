@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest==8.0.1
+pytest-django==4.8.0
+model-bakery==1.17.0
+
